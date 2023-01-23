@@ -1,10 +1,11 @@
-### Hi there 👋
-Some Projects:
+### Hola Mundo 👋
+Algunos de mis proyectos:
 
-- Albasolar
+- <a href="https://albasolar.es/" target="blank_">Albasolar</a>
 - Lemonts Events
-- Sterface
-- IES Francisco de Goya
+- <a href="https://josuesmoody.github.io/sterface.github.io/" target="blank_">Sterface</a>
+- <a href="https://site.educa.madrid.org/ies.goya.madrid/" target="blank_">IES Francisco de Goya</a>
+
 <!--
 **josuesmoody/josuesmoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
