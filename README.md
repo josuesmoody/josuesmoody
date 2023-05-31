@@ -2,7 +2,7 @@
 Algunos de mis proyectos:
 
 - <a href="https://albasolar.es/" Target="_blank">Albasolar</a>
-- - <a href="https://gomoverstx.com/" Target="_blank">Go Movers</a>
+- <a href="https://gomoverstx.com/" Target="_blank">Go Movers</a>
 - Lemonts Events
 - <a href="https://josuesmoody.github.io/sterface.github.io/" Target="_blank">Sterface</a>
 - <a href="https://site.educa.madrid.org/ies.goya.madrid/" Target="_blank">IES Francisco de Goya</a>
